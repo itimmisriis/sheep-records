@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sheeps</folder>
+	<filename>sheep_image (216).jpg</filename>
+	<path>C:\Users\mani\Desktop\sheeps\sheep_image (216).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>52</ymin>
+			<xmax>232</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>

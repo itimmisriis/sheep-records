@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Aerial Image Of Large Meadow With Sheep Flock Shoot From Drone Stock Photo_ Picture And Royalty Free Image_ Image</folder>
+	<filename>sheep_045.jpg</filename>
+	<path>/Users/adeelkhan47/Desktop/final - 2 /Aerial Image Of Large Meadow With Sheep Flock Shoot From Drone Stock Photo_ Picture And Royalty Free Image_ Image/sheep_045.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>20</ymin>
+			<xmax>101</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>43</ymin>
+			<xmax>342</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>54</ymin>
+			<xmax>450</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

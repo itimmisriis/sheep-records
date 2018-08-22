@@ -1,0 +1,38 @@
+<annotation>
+	<folder>sheep</folder>
+	<filename>sheep_image (115).jpg</filename>
+	<path>C:\Users\mani\Desktop\sheep\sheep_image (115).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>313</width>
+		<height>161</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>54</ymin>
+			<xmax>188</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>69</ymin>
+			<xmax>148</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

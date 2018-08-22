@@ -1,0 +1,38 @@
+<annotation>
+	<folder>aerial sheep grazing _ Google Search</folder>
+	<filename>sheep_026.jpg</filename>
+	<path>C:\Users\Sanusi\Documents\Sheep\aerial sheep grazing _ Google Search\sheep_026.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>87</ymin>
+			<xmax>221</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>99</ymin>
+			<xmax>245</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

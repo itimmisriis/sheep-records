@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Aerial sheep flock _ Google Search</folder>
+	<filename>sheep_175.jpg</filename>
+	<path>C:\Users\Sanusi\Documents\Sheep\Aerial sheep flock _ Google Search\sheep_175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>88</ymin>
+			<xmax>94</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>80</ymin>
+			<xmax>143</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>82</ymin>
+			<xmax>214</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

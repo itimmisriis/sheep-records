@@ -1,0 +1,50 @@
+<annotation>
+	<folder>drone herding sheep _ Google Search</folder>
+	<filename>sheep_056.jpg</filename>
+	<path>/Users/adeelkhan47/Desktop/final - 2 /drone herding sheep _ Google Search/sheep_056.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>136</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>111</ymin>
+			<xmax>122</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>68</ymin>
+			<xmax>114</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>71</ymin>
+			<xmax>181</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>
